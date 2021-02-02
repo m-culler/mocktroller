@@ -31,7 +31,7 @@
 		"connection status": true, 
 		"alarm status": "active", 
 		"operational state of charge": 54
-	}
+	},
 	"management": {
 		"constant pf parameters": {
 			"constant pf enable": "off", 
