@@ -1,0 +1,10 @@
+{
+	"active power": -5000, 
+	"reactive power": 1000, 
+	"voltage": 480, 
+	"frequency": 59.9, 
+	"operational state": "on", 
+	"connection status": True, 
+	"alarm status": "active", 
+	"operational state of charge": 54
+}

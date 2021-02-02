@@ -1,0 +1,23 @@
+{
+	"active power rating unity": 13000, 
+	"active power ratin over-excited": 13000, 
+	"over-excited power factor": 0.9, 
+	"active power rating under-excited": 13000, 
+	"under-excited power factor": 1.1, 
+	"apparent power maximum rating": 15000, 
+	"normal operating performance category": "A", 
+	"abnormal operating performance category": "III", 
+	"reactive power injected max rating": 13000, 
+	"reactive power absorbed max rating": 13000, 
+	"active power charge maximum rating": 13000, 
+	"apparent power charge maximum rating": 13000, 
+	"AC voltage nominal rating": 400, 
+	"AC voltage maximum rating": 450, 
+	"AC voltage minimum rating": 380, 
+	"Supported control mode functions": [True, True, False], 
+	"Reactive susceptance in cease to energize": 500, 
+	"Manufacturer": "xxx", 
+	"Model": "xxx", 
+	"Serial number": "123-xyz", 
+	"Version": "v0.0"
+}
