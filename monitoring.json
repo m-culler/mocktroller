@@ -4,7 +4,7 @@
 	"voltage": 480, 
 	"frequency": 59.9, 
 	"operational state": "on", 
-	"connection status": True, 
+	"connection status": true, 
 	"alarm status": "active", 
 	"operational state of charge": 54
 }
