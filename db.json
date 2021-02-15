@@ -54,12 +54,12 @@
 			"const var enable": "off", 
 			"const var": 1000
 		},
-		"voltwatt paramters": {
+		"voltwatt parameters": {
 			"voltwatt enable": "off", 
 			"V/P points": [1.06, 1, 1.1, 0.2, 0, 10], 
 			"open loop response time": 20
 		},
-		"voltage trip paramters": {
+		"voltage trip parameters": {
 			"HV Trip points": [1.20, 0.16, 1.1, 13], 
 			"LV Trip points": [0.88, 21, 0.5, 2], 
 			"HV momentary cessation": [1.2, 1.1, 13], 
